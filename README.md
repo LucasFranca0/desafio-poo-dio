@@ -1,6 +1,6 @@
 # Desafio: Aprenda na Prática Programação Orientada a Objetos
 
-**README criado pela instrutora [Camila Cavalcante](https://github.com/cami-la) no Bootcamp de Java do Banco PAN. **
+**README criado pela instrutora [Camila Cavalcante](https://github.com/cami-la) no Bootcamp de Java do Banco PAN.**
 
 📜 [SLIDES APRESENTADO NO PROJETO ](https://academiapme-my.sharepoint.com/:p:/g/personal/camila_cavalcante_dio_me/EaXyYOjBaFpZjkxhexMo5EcBKMEEAI5t5aHlsTjnBQJlUw?e=nxdB6C)📜
 
