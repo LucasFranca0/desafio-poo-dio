@@ -131,7 +131,7 @@ Linguagens Hibridas: Java, Erlang, Elixir, etc.
 
 **PARADIGMAS PRINCIPAIS e SEUS SUBPARADIGMAS**
 
-🔸 **1. Paradigma Imperativo**
+🔸 **1. Paradigma Imperativo** <br>
 Neste paradigma, o programa descreve o processamento necessário para solucionar o problema. Assim, o paradigma imperativo é caracterizado por execução sequencial de instruções, pelo uso de variáveis que representam posições de memória e pelo uso de instruções de atribuição que alteram os valores dessas variáveis.
 Vejamos alguns Subparadigmas do Paradigma Imperativo e exemplos linguagens de programação que adotam esses subparadigmas.
 
@@ -139,7 +139,7 @@ Vejamos alguns Subparadigmas do Paradigma Imperativo e exemplos linguagens de pr
 🔸 1.2 Paradigma concorrente: Java e Ada <br>
 🔸 1.3 Paradigma Orientado a Objetos: Smalltalk e Java <br>
 
-🔹 **2. Paradigma Declarativo**
+🔹 **2. Paradigma Declarativo** <br>
 Este paradigma é o modelo no qual os resultados são descritos, mas os passos para chegar aos resultados não são estabelecidos.
 Vejamos alguns Subparadigmas do Paradigma Declarativo e exemplos linguagens de programação que adotam esses subparadigmas:
 
