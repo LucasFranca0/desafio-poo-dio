@@ -10,11 +10,11 @@ Desafio este que tive a honra de co-criar com a plataforma de cursos online **[D
 
 ## 🛑 Pré-Requisitos
 
-✅ Conhecer a sintaxe da Java
-✅ Java JDK 11
-✅ IDE para desenvolvimento Java (usarei IntelliJ)
-✅ Git
-✅ Conta no GitHub
+✅ Conhecer a sintaxe da Java <br>
+✅ Java JDK 11 <br>
+✅ IDE para desenvolvimento Java (usarei IntelliJ) <br>
+✅ Git <br> 
+✅ Conta no GitHub <br>
 
 ## 👣 Passo-a-Passo
 
